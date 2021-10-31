@@ -54,3 +54,21 @@ ul{
   color: #f6b400;
   font-size: 1.3rem;
 }
+
+.hero{
+  height: 28rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.mtx{
+  padding-left: 6%;
+  padding-top: 14%;
+  width: 100%;
+
+}
+
+.image.bg{
+  position: relative;
+
+}
