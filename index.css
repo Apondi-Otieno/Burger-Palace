@@ -118,24 +118,18 @@ button{
 .home{
   background-color: #F6B400;
   clip-path: polygon(64% 0, 100% 0, 100% 100%, 47% 100%);
-
-  
- 
-
-
-h3{
-  display: inline;
 }
-
-.imageone{
   
-  border-color: black;
+ .imageone{
   margin-top: 20px;
   margin-left: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
+ }
 
-  
-}
+
+
+
+
 .imagetwo{
   margin-top: 20px;
   margin-left: 20px;
