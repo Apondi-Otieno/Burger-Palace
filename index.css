@@ -17,7 +17,7 @@ html{
   font-family: 'Poppins';
   }
 
-  
+
 nav ul{
   display: flex;
   justify-content: space-evenly;
@@ -33,7 +33,7 @@ li a{
   font-weight: bolder;
 }
 
-}
+
 .nav{
   display: flex;
   float: left;
