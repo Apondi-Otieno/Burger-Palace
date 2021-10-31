@@ -72,3 +72,44 @@ ul{
   position: relative;
 
 }
+
+.ad{
+  position: relative;
+  height: 40rem;
+  left: -10%;
+}
+
+.heading{
+  margin-bottom: 1.8rem;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.subheading{
+  font-size: 1.3rem;
+  margin-bottom:1.8rem ;
+  color: #e1ebe6;
+}
+
+.Order-button{
+ padding: 2.8%;
+ border-bottom-left-radius: 9px;
+ width: fit-content;
+ border-top-right-radius:9px ;
+ border-top-left-radius:9px ;
+ background-color: #f6b400;
+}
+
+.intro{
+
+  
+    flex-direction: row;
+    background-color: #e1ebe6;
+    height: 51rem;
+    display: flex;
+    position: relative;
+    margin-top: auto;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 18%;
+}
