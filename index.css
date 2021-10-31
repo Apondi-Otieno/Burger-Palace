@@ -66,7 +66,7 @@ ul li {
   float:right;
   margin-top: 0px; 
   margin-right: 120px;
-  clip-path: polygon(0 75%, 0 100%, 100%,100%, 100% 0);
+  
   
 
 }
@@ -117,8 +117,7 @@ button{
 
 .home{
   background-color: #F6B400;
-  
-}
+  clip-path: polygon(64% 0, 100% 0, 100% 100%, 47% 100%);
 .bell{
   display: flex;
   flex-wrap: wrap;
