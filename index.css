@@ -3,3 +3,41 @@ overflow-x: hidden;
 margin:0px;
 font-family: 'Poppins';
 }
+
+.logo{
+  flex-direction: column-reverse;
+  display: flex;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.nav{
+  display: flex;
+  float: left;
+}
+
+.navigation{
+  float: left;
+  width: 65%;
+  justify-content: inherit;
+  display: flex;
+  padding-right: 3%;
+}
+.logo{
+  text-decoration: none;
+  columns:#000 ;
+  font-weight: bold;
+  font-size: 1;
+
+}
+
+
+
