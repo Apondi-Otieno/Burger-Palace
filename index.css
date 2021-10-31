@@ -1,7 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'poppins';
+  box-sizing: border-box;
+}
+
+
+div{
+  border-width: 1px;
+  border-style: dashed;
+  border-color: black;
+}
 
 .logo{ 
   text-align: left;
   margin-top: 20px;
+  color: #000;
 
 }
 .head{
@@ -10,17 +24,27 @@
   font-size: 18px;
   color: #000;
   font-family: 'lobster',cursive;
-  margin-bottom: 100px;
+  margin-bottom: 0px;
+  margin-top: 20px;
 }
 .end{
-  display: inline;
   color: #F6B400;
-  margin-bottom: 100px;
+  font-family: 'lobster',cursive;
 }
 
 .nav{
   float: right;
+  display: inline-flex;
 
+}
+
+li a{
+
+  display: inline-block;
+  padding: 10px;
+  text-decoration:none ;
+  color: #000;
+  
 
 }
 
@@ -28,20 +52,23 @@ ul li {
   margin-right: 50;
   display: inline;
   padding: 18px ;
-  margin-top: 0pxs;
-
-}
-
- a{
+  margin-top: 20pxs;
+  font-weight: bold;
   color: #000;
-  font-weight: 600;
-  margin-top: 0pxs;
-  font-family: poppins;
+  font-family: 'poppins';
+
 }
+
+ 
 .ad{
+  
   position: relative;
   float:right;
-  margin-top: 30px;
+  margin-top: 0px; 
+  margin-right: 120px;
+  clip-path: polygon(0 75%, 0 100%, 100%,100%, 100% 0);
+  
+
 }
 
 
@@ -53,7 +80,7 @@ h1{
     line-height: 20px;
     font-size: 20px;
     margin-bottom: 20px;
-    margin-top: 80px;
+    margin-top: 100px;
 
 }
 
@@ -63,11 +90,102 @@ p{
     margin-top: 20px;
 
 }
+button{
+  background-color: #F6B400;
+  color: white;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 100px;
+  outline-color: white ;
+  border: none;
+  display: inline-block;
+  border-radius: 15px;
+}
+
+.next{
+  display: inline;
+  font-weight: 400;
+  font-size: 18px;
+  color: #000;
+  font-family: 'lobster',cursive;
+  margin-bottom: 0px;
+  margin-top: 20px;
+  border-bottom: #F6B400;
+  text-align: center;
+}
 
 
+.home{
+  background-color: #F6B400;
+  
+}
+.bell{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+h3{
+  display: inline;
+}
+
+.imageone{
+  
+  border-color: black;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 
   
-  
-  
+}
+.imagetwo{
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+}
 
+.imagethree{
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 0px;
   
+}
+.menu{
+  text-align: center;
+  border-bottom: #F6B400;
+}
+.one{
+  
+  display: inline;
+  font-weight: 400;
+  font-size: 18px;
+  color: #000;
+  font-family: 'lobster',cursive;
+  margin-bottom: 0px;
+  margin-top: 20px;}
+
+.two{
+  color: #F6B400;
+  font-weight: bold;
+
+}  
+
+.decker{
+  background-color: #e1ebe6;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.wan{
+  position: relative;
+  top: 0;
+  left: 20;
+}
+
+.tu{
+  position: absolute;
+  top: 10px;
+  left: 0px;
+  
+}
