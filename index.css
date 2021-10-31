@@ -4,6 +4,11 @@ margin:0px;
 font-family: 'Poppins';
 }
 
+.header{
+  background: linear-gradient(120deg, #fff 48%, #F6B400 48%); 
+    height: 45rem;
+}
+
 .logo{
   flex-direction: column-reverse;
   display: flex;
@@ -174,5 +179,37 @@ height: 48%;
   padding-top: 4.6%;
   margin-bottom: 2.9%;
  
+}
 
+.imageone{
+  height: 9rem;
+}
+
+.button{
+    
+    justify-content: space-between;
+    padding-left: 4.8%;
+    display: flex;
+    flex-direction: row;
+    padding-right: 4,8%;
+}
+
+.options{
+  display: flex;
+  background-color: #edf5f1;
+  height: 30rem;
+  justify-content: center;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  
+
+}
+
+.bg-title{
+  font-size: 2.2rem;
+}
+
+.bg-image{
+  height: 75%;
 }
