@@ -118,11 +118,10 @@ button{
 .home{
   background-color: #F6B400;
   clip-path: polygon(64% 0, 100% 0, 100% 100%, 47% 100%);
-.bell{
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
+
+  
+ 
+
 
 h3{
   display: inline;
