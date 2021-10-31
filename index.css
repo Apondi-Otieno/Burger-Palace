@@ -113,3 +113,66 @@ ul{
     justify-content: space-around;
     margin-bottom: 18%;
 }
+
+
+.item-intro{
+  
+  border: 1px solid white;
+  border-radius: 9px;
+  height: 38%;
+  padding-top: 8%;
+  width: 25%;
+  text-align: center;
+  align-items: center;
+  
+}
+
+.item-intro2{
+height: 48%;
+
+}
+
+.ad1{
+  height: 2.5rem;
+}
+
+
+.services{
+
+   
+    flex-direction: column;
+    height: 51rem;
+    position: relative;
+    margin-top: 8rem;
+    margin-bottom: 29%;
+    display: flex;
+    background-color: #e1ebe6;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bell{
+ text-align: center;
+
+}
+
+.items{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+.bell-items{
+  width: 27%;
+  border-radius: 23px;
+  height: 48%;
+  box-shadow: #e1ebe6 0px 4.8px 17px;
+  text-align: center;
+  align-items: center;
+  padding-top: 4.6%;
+  margin-bottom: 2.9%;
+ 
+
+}
