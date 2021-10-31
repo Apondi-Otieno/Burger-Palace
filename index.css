@@ -39,5 +39,18 @@ ul{
 
 }
 
+.logo1{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
 
+.logo2{
+  height: 2rem;
+}
 
+.head{
+  font-style: italic;
+  color: #f6b400;
+  font-size: 1.3rem;
+}
