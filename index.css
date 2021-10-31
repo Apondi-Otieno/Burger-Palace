@@ -18,12 +18,18 @@ nav ul{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  color: black;
 }
 
 ul{
   list-style-type: none;
 }
+li a{
+  color: #000;
+  font-weight: bolder;
+}
 
+}
 .nav{
   display: flex;
   float: left;
@@ -55,9 +61,13 @@ ul{
 }
 
 .head{
-  font-style: italic;
+  font-weight: bold;
+  color: #000;
+  font-size: 1.8rem;
+}
+
+.end{
   color: #f6b400;
-  font-size: 1.3rem;
 }
 
 .hero{
@@ -87,13 +97,14 @@ ul{
 .heading{
   margin-bottom: 1.8rem;
   font-size: 3rem;
-  font-weight: bold;
+  font-weight: 800;
 }
 
 .subheading{
   font-size: 1.3rem;
   margin-bottom:1.8rem ;
-  color: #e1ebe6;
+  color: black;
+  font-weight: 700;
 }
 
 .Order-button{
