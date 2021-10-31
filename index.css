@@ -206,10 +206,41 @@ height: 48%;
 
 }
 
+
 .bg-title{
   font-size: 2.2rem;
 }
 
+.title-bottom{
+  columns: #f6b400;
+  margin-top:auto;
+}
+
+
 .bg-image{
   height: 75%;
 }
+
+.dot{
+  
+  display: inline-block;
+  width: 13px;
+  background-color: #F6B400;
+  margin-top: 48%;
+  height: 13px;
+  border-radius: 48%;
+  
+}
+
+.add{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  background-color: #F6B400;
+  margin-top: auto;
+  justify-content: space-around;
+  height: 40rem;
+  position: relative;
+  
+}
+
