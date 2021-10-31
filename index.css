@@ -244,3 +244,89 @@ height: 48%;
   
 }
 
+.advert-ad{
+  padding-left: 25%;
+}
+
+.big{
+
+  font-weight: bold;
+  font-size: 2.5rem;
+
+}
+
+.ad-app{
+  width: 30rem;
+
+}
+
+.apps{
+  height: 40rem;
+}
+
+.cat{
+  background-color: #E1EBE6;
+  padding:1.8%;
+ 
+}
+
+.foot-footer{
+  display: flex;
+    flex-direction: row;
+    padding-top: 4.6%;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 4.6%;
+    padding-right: 4.6%;
+    background-color: #e1ebe6;
+   
+}
+
+
+.sub{
+  width:40%;
+}
+
+
+.subscriba{
+  margin-top: 1.3rem;
+  display: flex;
+}
+
+
+.mail{
+  font-weight: bold;
+  height: 2rem;
+  
+}
+
+.sfx{
+  padding: 5px 10px;
+  text-align: center;
+  display: table-cell;
+  font-weight: bold;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #e1ebe6;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #F6B400;
+  border: 1px solid #F6B400;
+  width: 30%;
+  
+  
+}
+
+
+.btm{
+  background-color: #e1ebe6;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 3.9%;
+  padding-right: 3.9%;
+  flex-direction: row;
+
+}
+
+
