@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;1,200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:ital,wght@0,200;1,200&display=swap');
 .header{
-  background: linear-gradient(120deg, #fff 48%, #F6B400 48%); 
+  background: linear-gradient(120deg, #fff 50%, #F6B400 50%); 
     height: 45rem;
 }
 
@@ -34,7 +34,7 @@ ul{
 }
 li a{
   color: #000;
-  font-weight: bolder;
+  font-weight: bold;
 }
 
 
@@ -220,19 +220,22 @@ h3{
   flex-wrap: wrap;
   justify-content: space-around;
 
+  flex-direction: row;
+  
+  height: 4rem;
+  display: flex;
+  position: relative;
+  margin-top: 0px;
+  align-items: center;
+  
+  margin-bottom: 10%;
+  border-radius: 4px;
+  text-align: center;
+  border: solid white
+
 }
 
-.bell-items{
-  width: 27%;
-  border-radius: 23%;
-  height: 48%;
-  box-shadow: #e1ebe6 0px 4.8px 17px;
-  text-align: center;
-  align-items: center;
-  padding-top: 4.6%;
-  margin-bottom: 3%;
- 
-}
+
 
 .imageone{
   height: 9rem;
@@ -272,8 +275,15 @@ h3{
 
 .bg-image{
   height: 75%;
+  margin-right: 0px;
+  margin-top: 0%;
+  margin-left: 40%;
 }
 
+h1{
+  font-weight: 800;
+  line-height: 0px;
+}
 .dot{
   
   display: inline-block;
@@ -304,17 +314,20 @@ h3{
 .big{
 
   font-weight: bold;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
+  margin-left: -24% ;
 
 }
 
 .ad-app{
   width: 30rem;
+  margin-left: -32%;
 
 }
 
 .apps{
   height: 40rem;
+  margin-left: -9%;
 }
 
 .cat{
