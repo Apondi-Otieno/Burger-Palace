@@ -1,15 +1,15 @@
 # Burger-Palace
 
 
-##Author
+## Author
 
-##Project Description
+## Project Description
 
-###Set-up and installation requirements
+### Set-up and installation requirements
 
-###Technologies Used
+### Technologies Used
 
-###LiveLInk
+### LiveLInk
 
-###Licence
+### Licence
 
