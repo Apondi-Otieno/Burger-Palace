@@ -6,7 +6,7 @@
 Apondi Beryl Otieno
 
 ## Project Description
-THis website shows a burger website, alongside the prices and the various flavours offered by the burger palace. 
+This website shows a burger website, alongside the prices and the various flavours offered by the burger palace. 
 
 ### Set-up and installation requirements
 
