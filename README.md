@@ -26,4 +26,6 @@ There are no bugs at the moment but if you spot any reach me at apondioti@gmail.
 
 ### Licence
 
+MIT License
+
 copyrigt (c) 2021 Apondi Beryl Otieno
